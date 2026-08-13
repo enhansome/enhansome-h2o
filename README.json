@@ -1,0 +1,195 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Understanding random forests: from theory to practice",
+          "description": "Gilles Louppe. (2014)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2016-06-29T05:43:44Z",
+            "owner": "glouppe",
+            "repo": "phd-thesis",
+            "stars": 529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stock Market Analysis using Stacked Ensemble Learning Method",
+          "description": "Malkar Takle. (2020)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-09-23T19:52:54Z",
+            "owner": "malhartakle",
+            "repo": "MastersDissertation",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Research Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GWU: Data Mining (Decision Sciences 6279)",
+          "description": "Masters of Science in Business Analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-27T20:05:07Z",
+            "owner": "jphall663",
+            "repo": "GWU_data_mining",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UCLA: Tools in Data Science (STATS 418)",
+          "description": "Masters of Applied Statistics Program.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-06-10T00:03:34Z",
+            "owner": "szilard",
+            "repo": "teach-data-science-UCLA-master-appl-stats",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "University of San Francisco (USF) Distributed Data System Class (MSDS 697)",
+          "description": "Master of Science in Data Science Program.",
+          "children": []
+        }
+      ],
+      "title": "Courses"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Forecast the US demand for electricity",
+          "description": "A real-time dashboard of the US electricity demand (forecast using H2O GLM)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-02-11T22:10:49Z",
+            "owner": "RamiKrispin",
+            "repo": "USelectricity",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h2oparsnip R package",
+          "description": "Set of wrappers to bind h2o algorthms with the parsnip package.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "R",
+            "last_commit": "2022-06-14T04:51:11Z",
+            "owner": "stevenpawley",
+            "repo": "h2oparsnip",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spin up PySpark and PySparkling on AWS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-07-01T00:09:28Z",
+            "owner": "kcrandall",
+            "repo": "EMR_Spark_Automation",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evaporate",
+          "description": "Run H2O models in the browser via Javascript. More info here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-03-22T16:30:18Z",
+            "owner": "kdpsingh",
+            "repo": "Evaporate",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "splash R package",
+          "description": "Splashing a User Interface onto H2O MOJO Files. More info here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2021-03-05T12:04:04Z",
+            "owner": "kdpsingh",
+            "repo": "splash",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h2o3-pam",
+          "description": "Partition Around Mediods (PAM) clustering algorithm in H2O-3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-11-08T21:04:48Z",
+            "owner": "navdeep-G",
+            "repo": "h2o3-pam",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h2o3-gapstat",
+          "description": "Gap Statistic algorithm in H2O-3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-06-12T17:06:50Z",
+            "owner": "navdeep-G",
+            "repo": "h2o3-gapstat",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Software"
+    },
+    {
+      "description": "To the extent possible under law, H2O.ai has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:52.555Z",
+    "original_repository": "h2oai/awesome-h2o",
+    "original_repository_sha": "c48c6ffe46b202eec6b574672e26f4f022804148",
+    "enhanced_repository": "enhansome/enhansome-h2o",
+    "enhanced_repository_description": null,
+    "title": "Awesome H2O with stars"
+  }
+}
