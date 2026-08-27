@@ -185,9 +185,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:07:05.671Z",
-    "original_repository": "h2oai/awesome-h2o",
-    "original_repository_id": 80066851,
+    "last_updated": "2026-08-27T11:43:43.739Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 80066851,
+      "language": null,
+      "last_commit": "2023-05-18T17:08:23Z",
+      "owner": "h2oai",
+      "repo": "awesome-h2o",
+      "stars": 393
+    },
     "original_repository_sha": "c48c6ffe46b202eec6b574672e26f4f022804148",
     "enhanced_repository": "enhansome/enhansome-h2o",
     "enhanced_repository_description": null,
