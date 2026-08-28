@@ -16,7 +16,8 @@
             "owner": "glouppe",
             "repo": "phd-thesis",
             "stars": 529
-          }
+          },
+          "first_seen": "2026-08-28T15:29:28.853Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "malhartakle",
             "repo": "MastersDissertation",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:29:28.853Z"
         }
       ],
       "title": "Research Papers"
@@ -52,7 +54,8 @@
             "owner": "jphall663",
             "repo": "GWU_data_mining",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T15:29:28.853Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "szilard",
             "repo": "teach-data-science-UCLA-master-appl-stats",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T15:29:28.853Z"
         }
       ],
       "title": "Courses"
@@ -88,7 +92,8 @@
             "owner": "RamiKrispin",
             "repo": "USelectricity",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T15:29:28.853Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "stevenpawley",
             "repo": "h2oparsnip",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T15:29:28.853Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "kcrandall",
             "repo": "EMR_Spark_Automation",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T15:29:28.853Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "kdpsingh",
             "repo": "Evaporate",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:29:28.853Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "kdpsingh",
             "repo": "splash",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:29:28.853Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "navdeep-G",
             "repo": "h2o3-pam",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:29:28.853Z"
         },
         {
           "node_type": "item",
@@ -178,14 +188,15 @@
             "owner": "navdeep-G",
             "repo": "h2o3-gapstat",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:29:28.853Z"
         }
       ],
       "title": "Software"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:19:42.929Z",
+    "last_updated": "2026-08-28T15:29:28.853Z",
     "original_repository_info": {
       "archived": false,
       "id": 80066851,
