@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository of my thesis \"Understanding Random Forests\"",
+            "homepage": null,
             "id": 15667482,
             "language": "TeX",
+            "license": "NOASSERTION",
             "last_commit": "2016-06-29T05:43:44Z",
+            "open_issues": 1,
             "owner": "glouppe",
             "repo": "phd-thesis",
-            "stars": 529
+            "stars": 529,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:28.853Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comparing the performance of Stacked Ensemble Learning & machine learning algorithms like Random Forest, Decision Tree, Adaboost, Gradient Boost and XGBoost Classifier in Python for Stock Market Trend Prediction.",
+            "homepage": null,
             "id": 298069984,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2020-09-23T19:52:54Z",
+            "open_issues": 0,
             "owner": "malhartakle",
             "repo": "MastersDissertation",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:28.853Z"
         }
@@ -48,12 +58,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materials for GWU DNSC 6279 and DNSC 6290.",
+            "homepage": null,
             "id": 49469778,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-05-27T20:05:07Z",
+            "open_issues": 3,
             "owner": "jphall663",
             "repo": "GWU_data_mining",
-            "stars": 240
+            "stars": 240,
+            "topics": [
+              "data-mining",
+              "data-science",
+              "data-visualization",
+              "h2o",
+              "image-processing",
+              "image-recognition",
+              "machine-learning",
+              "python",
+              "r",
+              "sas",
+              "text-mining"
+            ]
           },
           "first_seen": "2026-08-28T15:29:28.853Z"
         },
@@ -64,12 +91,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materials for STATS 418 - Tools in Data Science course taught in the Master of Applied Statistics at UCLA",
+            "homepage": null,
             "id": 81553255,
             "language": "HTML",
+            "license": null,
             "last_commit": "2017-06-10T00:03:34Z",
+            "open_issues": 1,
             "owner": "szilard",
             "repo": "teach-data-science-UCLA-master-appl-stats",
-            "stars": 138
+            "stars": 138,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:28.853Z"
         }
@@ -86,12 +118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Forecast the US demand for electricity ",
+            "homepage": "https://ramikrispin.github.io/USelectricity/",
             "id": 329617549,
             "language": "R",
+            "license": null,
             "last_commit": "2022-02-11T22:10:49Z",
+            "open_issues": 1,
             "owner": "RamiKrispin",
             "repo": "USelectricity",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:28.853Z"
         },
@@ -102,12 +139,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Model Wrappers for H2O models",
+            "homepage": null,
             "id": 236418943,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-14T04:51:11Z",
+            "open_issues": 1,
             "owner": "stevenpawley",
             "repo": "h2oparsnip",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:28.853Z"
         },
@@ -118,12 +160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository for deploying an AWS EMR cluster and submiting spark jobs on it. Boostrapping by default does inclues pysparkling so one can easily use h2o with python and spark.",
+            "homepage": null,
             "id": 95931914,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2017-07-01T00:09:28Z",
+            "open_issues": 0,
             "owner": "kcrandall",
             "repo": "EMR_Spark_Automation",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:28.853Z"
         },
@@ -134,12 +181,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 337593606,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-03-22T16:30:18Z",
+            "open_issues": 0,
             "owner": "kdpsingh",
             "repo": "Evaporate",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:28.853Z"
         },
@@ -150,12 +202,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Splashing a User Interface onto h2o MOJO Files",
+            "homepage": null,
             "id": 344796479,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2021-03-05T12:04:04Z",
+            "open_issues": 0,
             "owner": "kdpsingh",
             "repo": "splash",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:28.853Z"
         },
@@ -166,12 +223,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Partitioning Around Medoids (PAM) in H2O-3",
+            "homepage": null,
             "id": 125928160,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-08T21:04:48Z",
+            "open_issues": 8,
             "owner": "navdeep-G",
             "repo": "h2o3-pam",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "big-data",
+              "clustering",
+              "clustering-algorithm",
+              "data-science",
+              "distributed",
+              "h2o",
+              "h2o-3",
+              "java",
+              "machine-learning",
+              "medoids",
+              "multithreading",
+              "pam",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:29:28.853Z"
         },
@@ -182,12 +258,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Estimating the number of clusters in a data set via the gap statistic. Implemented in H2O-3",
+            "homepage": null,
             "id": 285130809,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-12T17:06:50Z",
+            "open_issues": 0,
             "owner": "navdeep-G",
             "repo": "h2o3-gapstat",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "big-data",
+              "clustering",
+              "data-science",
+              "datascience",
+              "distributed",
+              "gap-statistic",
+              "h2o-3",
+              "java",
+              "kmeans",
+              "kmeans-clustering",
+              "machine-learning",
+              "multithreading",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T15:29:28.853Z"
         }
@@ -196,15 +291,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:29:28.853Z",
+    "last_updated": "2026-08-29T04:45:36.561Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of research, applications and projects built using the H2O Machine Learning platform",
+      "homepage": "https://github.com/h2oai/h2o-3",
       "id": 80066851,
       "language": null,
+      "license": null,
       "last_commit": "2023-05-18T17:08:23Z",
+      "open_issues": 1,
       "owner": "h2oai",
       "repo": "awesome-h2o",
-      "stars": 393
+      "stars": 393,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "data-science",
+        "deep-learning",
+        "h2o",
+        "h2oai",
+        "machine-learning"
+      ]
     },
     "original_repository_sha": "c48c6ffe46b202eec6b574672e26f4f022804148",
     "enhanced_repository": "enhansome/enhansome-h2o",
