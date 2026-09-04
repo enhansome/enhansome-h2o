@@ -60,7 +60,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Research Papers
 
-* [Understanding random forests: from theory to practice](https://github.com/glouppe/phd-thesis) ⭐ 529 | 🐛 1 | 🌐 TeX | 📅 2016-06-29 Gilles Louppe. (2014)
+* [Understanding random forests: from theory to practice](https://github.com/glouppe/phd-thesis) ⭐ 528 | 🐛 1 | 🌐 TeX | 📅 2016-06-29 Gilles Louppe. (2014)
 * [Stock Market Analysis using Stacked Ensemble Learning Method](https://github.com/malhartakle/MastersDissertation/blob/master/Research%20Project%20Report.pdf) ⭐ 1 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-09-23  Malkar Takle. (2020)
 * [Automated machine learning: AI-driven decision making in business analytics](https://www.sciencedirect.com/science/article/pii/S2667305323000133) Marc Schmitt. (2023)
 * [Water-Quality Prediction Based on H2O AutoML and Explainable AI Techniques](https://www.mdpi.com/2073-4441/15/3/475) Hamza Ahmad Madni, Muhammad Umer, Abid Ishaq, Nihal Abuzinadah, Oumaima Saidani, Shtwai Alsubai, Monia Hamdi, Imran Ashraf. (2023)
@@ -144,4 +144,4 @@ To the extent possible under law, [H2O.ai](http://h2o.ai) has waived all copyrig
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
