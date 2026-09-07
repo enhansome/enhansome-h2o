@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "glouppe",
             "repo": "phd-thesis",
-            "stars": 528,
+            "stars": 527,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:28.853Z"
@@ -291,7 +291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T07:59:01.651Z",
+    "last_updated": "2026-09-07T08:27:34.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of research, applications and projects built using the H2O Machine Learning platform",
