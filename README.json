@@ -291,7 +291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T08:24:53.375Z",
+    "last_updated": "2026-09-14T09:04:38.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of research, applications and projects built using the H2O Machine Learning platform",
@@ -303,7 +303,7 @@
       "open_issues": 1,
       "owner": "h2oai",
       "repo": "awesome-h2o",
-      "stars": 393,
+      "stars": 394,
       "topics": [
         "awesome",
         "awesome-list",
