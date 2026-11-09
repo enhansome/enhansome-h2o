@@ -109,7 +109,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 * [Are categorical variables getting lost in your random forests?](http://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/) - Benchmark of categorical encoding schemes and the effect on tree based models (Scikit-learn vs H2O). Oct 28, 2016
 * [Deep learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) - Benchmark of open source deep learning packages in R. Mar 7, 2016
-* [Szilard's machine learning benchmark](https://github.com/szilard/benchm-ml) ⭐ 1,896 | 🐛 12 | 🌐 R | 📅 2022-09-16 - Benchmarks of Random Forest, GBM, Deep Learning and GLM implementations in common open source ML frameworks. Jul 3, 2015
+* [Szilard's machine learning benchmark](https://github.com/szilard/benchm-ml) ⭐ 1,895 | 🐛 12 | 🌐 R | 📅 2022-09-16 - Benchmarks of Random Forest, GBM, Deep Learning and GLM implementations in common open source ML frameworks. Jul 3, 2015
 
 ## Presentations
 
@@ -119,7 +119,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 ## Courses
 
 * [GWU: Data Mining (Decision Sciences 6279)](https://github.com/jphall663/GWU_data_mining) ⭐ 240 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-05-27 - Masters of Science in Business Analytics.
-* [UCLA: Tools in Data Science (STATS 418)](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) ⭐ 138 | 🐛 1 | 🌐 HTML | 📅 2017-06-10 - Masters of Applied Statistics Program.
+* [UCLA: Tools in Data Science (STATS 418)](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) ⭐ 137 | 🐛 1 | 🌐 HTML | 📅 2017-06-10 - Masters of Applied Statistics Program.
 * [University of San Francisco (USF) Distributed Data System Class (MSDS 697)](https://github.com/dianewoodbridge/2020-msds697-example) - Master of Science in Data Science Program.
 * [University of Oslo: Introduction to Automatic and Scalable Machine Learning with H2O and R](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar-2019.html) - Research Bazaar 2019
 * [University of Cape Town: Analytics Module](http://www.stats.uct.ac.za/stats/study/postgrad/honours) - Postgraduate Honors Program in Statistical Sciences.
@@ -144,4 +144,4 @@ To the extent possible under law, [H2O.ai](http://h2o.ai) has waived all copyrig
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
