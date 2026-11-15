@@ -100,7 +100,7 @@
             "open_issues": 1,
             "owner": "szilard",
             "repo": "teach-data-science-UCLA-master-appl-stats",
-            "stars": 137,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:28.853Z"
@@ -291,7 +291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T10:39:39.450Z",
+    "last_updated": "2026-11-15T11:12:42.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of research, applications and projects built using the H2O Machine Learning platform",
